@@ -1,0 +1,22 @@
+﻿<Window x:Class="ThangNPHE151263_FinalProject.OrderPaymentWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Order Payment" Height="438" Width="807">
+    <Grid Margin="0,0,0,31">
+        <Label Content="Order Information" HorizontalAlignment="Left" Margin="53,24,0,0" VerticalAlignment="Top" FontSize="30"/>
+        <ListView x:Name="ListViewOrderDetails" Margin="53,70,53,120">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Name" Width="Auto" DisplayMemberBinding="{Binding IdProductNavigation.Name}"/>
+                    <GridViewColumn Header="Price" Width="Auto" DisplayMemberBinding="{Binding UnitPrice}"/>
+                    <GridViewColumn Header="Quantity" Width="Auto" DisplayMemberBinding="{Binding Quantity}"/>
+                    <GridViewColumn Header="Total" Width="Auto" DisplayMemberBinding="{Binding IntoMoney}"/>
+                    <GridViewColumn Header="Description" Width="Auto" DisplayMemberBinding="{Binding Description}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <TextBlock x:Name="TotalAmountTextBlock" Text="Total Amount: " HorizontalAlignment="Left" Margin="53,332,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <Button x:Name="CancelButton" Content="Cancel" HorizontalAlignment="Left" Margin="554,332,0,0" VerticalAlignment="Top" Width="77" Height="48" Click="CancelButton_Click"/>
+        <Button x:Name="ConfirmButton" Content="Confirm" HorizontalAlignment="Left" Margin="664,332,0,0" VerticalAlignment="Top" Width="77" Height="48" Click="ConfirmButton_Click"/>
+    </Grid>
+</Window>

@@ -1,0 +1,96 @@
+﻿<Window x:Class="ThangNPHE151263_FinalProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ThangNPHE151263_FinalProject"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d" Height="540" Width="1080" Foreground="White" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None" Loaded="Window_Loaded">
+    <Grid Background="#FFDEDEDE">
+        <Grid x:Name="GridMain" HorizontalAlignment="Left" VerticalAlignment="Center" Height="520" Width="1010" Margin="70,0,0,0"/>
+        <Grid Height="60" VerticalAlignment="Top" Background="#FF5C99D6">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                <TextBlock x:Name="LoginEmpNameTextBox" Text="{Binding EmployeeName}" VerticalAlignment="Center" FontSize="14"/>
+                <Button x:Name="LogoutButton" Content="Logout" Click="LogoutButton_Click" Width="105" Height="27"/>
+            </StackPanel>
+            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="22">Checkout</TextBlock>
+        </Grid>
+        <Grid x:Name="GridContent" HorizontalAlignment="Right" VerticalAlignment="Bottom" Height="465" Width="1005" Margin="0,0,0,10">
+            <Grid x:Name="GridProductOrder" Margin="10,10,10,0" RenderTransformOrigin="0.732,0.805">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="61*"/>
+                    <ColumnDefinition Width="515*"/>
+                    <ColumnDefinition Width="434*"/>
+                </Grid.ColumnDefinitions>
+
+                <Border Background="#EAEAEA" Margin="0,0,0,10" Padding="10" HorizontalAlignment="Center" Width="542" Grid.ColumnSpan="2">
+                    <StackPanel HorizontalAlignment="Center" Width="522">
+                        <TextBlock Text="Product" FontSize="20" HorizontalAlignment="Center" Margin="0 0 0 10" Foreground="Black"/>
+                        <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled">
+                            <ListView x:Name="ListViewProduct" Background="White" SelectionChanged="Product_SelectionChanged"
+                                      Height="400" VerticalContentAlignment="Stretch">
+                                <ListView.ItemsPanel>
+                                    <ItemsPanelTemplate>
+                                        <UniformGrid Columns="4" />
+                                    </ItemsPanelTemplate>
+                                </ListView.ItemsPanel>
+                                <ListView.ItemTemplate>
+                                    <DataTemplate>
+                                        <Border BorderBrush="#CCCCCC" BorderThickness="1" Margin="5">
+                                            <StackPanel>
+                                                <Image Width="100" Height="100" Source="{Binding Img}" Stretch="UniformToFill"/>
+                                                <TextBlock Text="{Binding Name}" Margin="5 3" HorizontalAlignment="Center"/>
+                                                <TextBlock Text="{Binding UnitPrice}" Margin="5 3" HorizontalAlignment="Center"/>
+                                            </StackPanel>
+                                        </Border>
+                                    </DataTemplate>
+                                </ListView.ItemTemplate>
+                                <ListView.ItemContainerStyle>
+                                    <Style TargetType="ListViewItem">
+                                        <Setter Property="HorizontalContentAlignment" Value="Stretch"/>
+                                        <Setter Property="VerticalContentAlignment" Value="Center"/>
+                                    </Style>
+                                </ListView.ItemContainerStyle>
+                            </ListView>
+                        </ScrollViewer>
+                    </StackPanel>
+                </Border>
+
+                <!-- Order List -->
+                <Border Grid.Column="2" Background="#EAEAEA" Margin="10,0,10,0" Padding="10">
+                    <StackPanel>
+                        <Label x:Name="TableChoosedTextBlock" FontSize="20" HorizontalAlignment="Center" Margin="0 0 0 10"/>
+                        <ScrollViewer VerticalScrollBarVisibility="Auto">
+                            <ListView x:Name="ListViewOrder" Background="#FFFFFF">
+                                <ListView.View>
+                                    <GridView>
+                                        <GridViewColumn Header="Name" Width="Auto" DisplayMemberBinding="{Binding IdProductNavigation.Name}"/>
+                                        <GridViewColumn Header="Price" Width="Auto" DisplayMemberBinding="{Binding UnitPrice}"/>
+                                        <GridViewColumn Header="Quantity" Width="Auto" DisplayMemberBinding="{Binding Quantity}"/>
+                                        <GridViewColumn Header="Total" Width="Auto" DisplayMemberBinding="{Binding IntoMoney}"/>
+                                        <GridViewColumn Header="Description" Width="Auto" DisplayMemberBinding="{Binding Description}"/>
+                                        <GridViewColumn Header="Action" Width="Auto">
+                                            <GridViewColumn.CellTemplate>
+                                                <DataTemplate>
+                                                    <Button Content="Delete" Click="DeleteButton_Click"/>
+                                                </DataTemplate>
+                                            </GridViewColumn.CellTemplate>
+                                        </GridViewColumn>
+                                    </GridView>
+                                </ListView.View>
+                            </ListView>
+                        </ScrollViewer>
+                        <!-- Button Checkout -->
+                        <Button Content="Checkout" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,10,0,0" Click="CheckoutButton_Click"/>
+                    </StackPanel>
+                </Border>
+
+            </Grid>
+        </Grid>
+        <Grid x:Name="GridMenu" Width="70" HorizontalAlignment="Left" Background="#FF31577E">
+            <Grid.Effect>
+                <DropShadowEffect BlurRadius="2" ShadowDepth="1" Color="#FFAEAEAE"/>
+            </Grid.Effect>
+        </Grid>
+    </Grid>
+</Window>

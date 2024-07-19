@@ -1,0 +1,358 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC018E05-4DDF-4398-AE73-CEC2FD80892A}|ThangNPHE151263_FinalProject.csproj|c:\\users\\putaa\\desktop\\thangnphe151263_finalproject\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC018E05-4DDF-4398-AE73-CEC2FD80892A}|ThangNPHE151263_FinalProject.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC018E05-4DDF-4398-AE73-CEC2FD80892A}|ThangNPHE151263_FinalProject.csproj|c:\\users\\putaa\\desktop\\thangnphe151263_finalproject\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC018E05-4DDF-4398-AE73-CEC2FD80892A}|ThangNPHE151263_FinalProject.csproj|solutionrelative:loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC018E05-4DDF-4398-AE73-CEC2FD80892A}|ThangNPHE151263_FinalProject.csproj|c:\\users\\putaa\\desktop\\thangnphe151263_finalproject\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC018E05-4DDF-4398-AE73-CEC2FD80892A}|ThangNPHE151263_FinalProject.csproj|solutionrelative:loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC018E05-4DDF-4398-AE73-CEC2FD80892A}|ThangNPHE151263_FinalProject.csproj|c:\\users\\putaa\\desktop\\thangnphe151263_finalproject\\productchoosed.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC018E05-4DDF-4398-AE73-CEC2FD80892A}|ThangNPHE151263_FinalProject.csproj|solutionrelative:productchoosed.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC018E05-4DDF-4398-AE73-CEC2FD80892A}|ThangNPHE151263_FinalProject.csproj|c:\\users\\putaa\\desktop\\thangnphe151263_finalproject\\orderpaymentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC018E05-4DDF-4398-AE73-CEC2FD80892A}|ThangNPHE151263_FinalProject.csproj|solutionrelative:orderpaymentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC018E05-4DDF-4398-AE73-CEC2FD80892A}|ThangNPHE151263_FinalProject.csproj|c:\\users\\putaa\\desktop\\thangnphe151263_finalproject\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC018E05-4DDF-4398-AE73-CEC2FD80892A}|ThangNPHE151263_FinalProject.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC018E05-4DDF-4398-AE73-CEC2FD80892A}|ThangNPHE151263_FinalProject.csproj|c:\\users\\putaa\\desktop\\thangnphe151263_finalproject\\orderpaymentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC018E05-4DDF-4398-AE73-CEC2FD80892A}|ThangNPHE151263_FinalProject.csproj|solutionrelative:orderpaymentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC018E05-4DDF-4398-AE73-CEC2FD80892A}|ThangNPHE151263_FinalProject.csproj|c:\\users\\putaa\\desktop\\thangnphe151263_finalproject\\productchoosed.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC018E05-4DDF-4398-AE73-CEC2FD80892A}|ThangNPHE151263_FinalProject.csproj|solutionrelative:productchoosed.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC018E05-4DDF-4398-AE73-CEC2FD80892A}|ThangNPHE151263_FinalProject.csproj|c:\\users\\putaa\\desktop\\thangnphe151263_finalproject\\services\\tableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC018E05-4DDF-4398-AE73-CEC2FD80892A}|ThangNPHE151263_FinalProject.csproj|solutionrelative:services\\tableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC018E05-4DDF-4398-AE73-CEC2FD80892A}|ThangNPHE151263_FinalProject.csproj|c:\\users\\putaa\\desktop\\thangnphe151263_finalproject\\services\\tablegroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC018E05-4DDF-4398-AE73-CEC2FD80892A}|ThangNPHE151263_FinalProject.csproj|solutionrelative:services\\tablegroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC018E05-4DDF-4398-AE73-CEC2FD80892A}|ThangNPHE151263_FinalProject.csproj|c:\\users\\putaa\\desktop\\thangnphe151263_finalproject\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC018E05-4DDF-4398-AE73-CEC2FD80892A}|ThangNPHE151263_FinalProject.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC018E05-4DDF-4398-AE73-CEC2FD80892A}|ThangNPHE151263_FinalProject.csproj|c:\\users\\putaa\\desktop\\thangnphe151263_finalproject\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC018E05-4DDF-4398-AE73-CEC2FD80892A}|ThangNPHE151263_FinalProject.csproj|solutionrelative:services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC018E05-4DDF-4398-AE73-CEC2FD80892A}|ThangNPHE151263_FinalProject.csproj|c:\\users\\putaa\\desktop\\thangnphe151263_finalproject\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC018E05-4DDF-4398-AE73-CEC2FD80892A}|ThangNPHE151263_FinalProject.csproj|solutionrelative:services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC018E05-4DDF-4398-AE73-CEC2FD80892A}|ThangNPHE151263_FinalProject.csproj|c:\\users\\putaa\\desktop\\thangnphe151263_finalproject\\services\\billservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC018E05-4DDF-4398-AE73-CEC2FD80892A}|ThangNPHE151263_FinalProject.csproj|solutionrelative:services\\billservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC018E05-4DDF-4398-AE73-CEC2FD80892A}|ThangNPHE151263_FinalProject.csproj|c:\\users\\putaa\\desktop\\thangnphe151263_finalproject\\repositories\\tablerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC018E05-4DDF-4398-AE73-CEC2FD80892A}|ThangNPHE151263_FinalProject.csproj|solutionrelative:repositories\\tablerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC018E05-4DDF-4398-AE73-CEC2FD80892A}|ThangNPHE151263_FinalProject.csproj|c:\\users\\putaa\\desktop\\thangnphe151263_finalproject\\repositories\\tablegrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC018E05-4DDF-4398-AE73-CEC2FD80892A}|ThangNPHE151263_FinalProject.csproj|solutionrelative:repositories\\tablegrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC018E05-4DDF-4398-AE73-CEC2FD80892A}|ThangNPHE151263_FinalProject.csproj|c:\\users\\putaa\\desktop\\thangnphe151263_finalproject\\repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC018E05-4DDF-4398-AE73-CEC2FD80892A}|ThangNPHE151263_FinalProject.csproj|solutionrelative:repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC018E05-4DDF-4398-AE73-CEC2FD80892A}|ThangNPHE151263_FinalProject.csproj|c:\\users\\putaa\\desktop\\thangnphe151263_finalproject\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC018E05-4DDF-4398-AE73-CEC2FD80892A}|ThangNPHE151263_FinalProject.csproj|solutionrelative:repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC018E05-4DDF-4398-AE73-CEC2FD80892A}|ThangNPHE151263_FinalProject.csproj|c:\\users\\putaa\\desktop\\thangnphe151263_finalproject\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC018E05-4DDF-4398-AE73-CEC2FD80892A}|ThangNPHE151263_FinalProject.csproj|solutionrelative:repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC018E05-4DDF-4398-AE73-CEC2FD80892A}|ThangNPHE151263_FinalProject.csproj|c:\\users\\putaa\\desktop\\thangnphe151263_finalproject\\repositories\\billrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC018E05-4DDF-4398-AE73-CEC2FD80892A}|ThangNPHE151263_FinalProject.csproj|solutionrelative:repositories\\billrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC018E05-4DDF-4398-AE73-CEC2FD80892A}|ThangNPHE151263_FinalProject.csproj|c:\\users\\putaa\\desktop\\thangnphe151263_finalproject\\models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC018E05-4DDF-4398-AE73-CEC2FD80892A}|ThangNPHE151263_FinalProject.csproj|solutionrelative:models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductChoosed.xaml",
+              "DocumentMoniker": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\ProductChoosed.xaml",
+              "RelativeDocumentMoniker": "ProductChoosed.xaml",
+              "ToolTip": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\ProductChoosed.xaml",
+              "RelativeToolTip": "ProductChoosed.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-17T08:22:57.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "LoginWindow.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAtwBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:50:27.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\LoginWindow.xaml",
+              "RelativeToolTip": "LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-17T09:26:47.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductChoosed.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\ProductChoosed.xaml.cs",
+              "RelativeDocumentMoniker": "ProductChoosed.xaml.cs",
+              "ToolTip": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\ProductChoosed.xaml.cs",
+              "RelativeToolTip": "ProductChoosed.xaml.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAwFoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:36:16.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwCgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:20:10.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderPaymentWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\OrderPaymentWindow.xaml",
+              "RelativeDocumentMoniker": "OrderPaymentWindow.xaml",
+              "ToolTip": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\OrderPaymentWindow.xaml",
+              "RelativeToolTip": "OrderPaymentWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-17T08:17:04.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-17T08:18:37.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\Repositories\\LoginRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\LoginRepository.cs",
+              "ToolTip": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\Repositories\\LoginRepository.cs",
+              "RelativeToolTip": "Repositories\\LoginRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:46:16.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "Repositories\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:46:12.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:46:03.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BillRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\Repositories\\BillRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\BillRepository.cs",
+              "ToolTip": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\Repositories\\BillRepository.cs",
+              "RelativeToolTip": "Repositories\\BillRepository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:45:40.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\Models\\Bill.cs",
+              "RelativeDocumentMoniker": "Models\\Bill.cs",
+              "ToolTip": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\Models\\Bill.cs",
+              "RelativeToolTip": "Models\\Bill.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:54:29.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderPaymentWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\OrderPaymentWindow.xaml.cs",
+              "RelativeDocumentMoniker": "OrderPaymentWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\OrderPaymentWindow.xaml.cs",
+              "RelativeToolTip": "OrderPaymentWindow.xaml.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwDsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:17:23.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TableService.cs",
+              "DocumentMoniker": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\Services\\TableService.cs",
+              "RelativeDocumentMoniker": "Services\\TableService.cs",
+              "ToolTip": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\Services\\TableService.cs",
+              "RelativeToolTip": "Services\\TableService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:52:42.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TableGroupService.cs",
+              "DocumentMoniker": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\Services\\TableGroupService.cs",
+              "RelativeDocumentMoniker": "Services\\TableGroupService.cs",
+              "ToolTip": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\Services\\TableGroupService.cs",
+              "RelativeToolTip": "Services\\TableGroupService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:52:45.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:52:48.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\Services\\LoginService.cs",
+              "RelativeDocumentMoniker": "Services\\LoginService.cs",
+              "ToolTip": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\Services\\LoginService.cs",
+              "RelativeToolTip": "Services\\LoginService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:52:50.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Services\\EmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:47:06.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BillService.cs",
+              "DocumentMoniker": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\Services\\BillService.cs",
+              "RelativeDocumentMoniker": "Services\\BillService.cs",
+              "ToolTip": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\Services\\BillService.cs",
+              "RelativeToolTip": "Services\\BillService.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAIwCgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:46:52.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TableRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\Repositories\\TableRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\TableRepository.cs",
+              "ToolTip": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\Repositories\\TableRepository.cs",
+              "RelativeToolTip": "Repositories\\TableRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:46:33.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TableGroupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\Repositories\\TableGroupRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\TableGroupRepository.cs",
+              "ToolTip": "C:\\Users\\Putaa\\Desktop\\ThangNPHE151263_FinalProject\\Repositories\\TableGroupRepository.cs",
+              "RelativeToolTip": "Repositories\\TableGroupRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:46:25.133Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
